@@ -1,0 +1,11 @@
+.whole-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-flow: column nowrap;
+}
+
+#map {
+  height: 70vh;
+  width: 100vw;
+}

@@ -1,0 +1,7 @@
+.map-controls {
+  height: 25vh;
+  width: 80vw;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
